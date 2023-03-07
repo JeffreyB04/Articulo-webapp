@@ -1,0 +1,1 @@
+Ejemplo del html de la segunda clase para las compas. ;)

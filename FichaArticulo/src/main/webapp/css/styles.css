@@ -1,0 +1,102 @@
+body{
+    background-image: url("../images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+}
+
+.encabezado{
+    background-color: bisque;
+}
+
+.problema{
+    background-color: beige;
+}
+.otrasSoluciones{
+    background-color: beige;
+}
+.experimento{
+    background-color: beige;
+}
+
+.articulo{
+    display: inline-block;
+    width:70%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.estudiantes{
+    display: inline-block;
+    width:20%;
+    vertical-align: top;
+}
+
+.problema-nombre{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-right: 1em;
+    vertical-align: top;
+}
+.experimento-nombre{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-right: 1em;
+    vertical-align: top;
+}
+.otrasSoluciones-nombre{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding-right: 1em;
+    vertical-align: top;
+}
+
+.problema-description{
+    display: inline-block;
+    width: 60%;
+}
+.otrasSoluciones-description{
+    display: inline-block;
+    width: 60%;
+}
+.experimento-description{
+    display: inline-block;
+    width: 60%;
+}
+
+.titulo{
+
+}
+
+.autores{
+
+}
+
+.articulo-nombre{
+   font-size: x-large;
+    color: darkred;
+}
+
+.autor{
+    display: inline-block;
+}
+
+.autor-foto{
+    width: 25%;
+    border-radius: 50%;
+}
+
+.autor-nombre{
+
+}
+
+.estudiantes ul{
+    list-style-image: url("../images/kirby.jpg");
+}
+
+.estudiantes ul li{
+    text-align: left;
+}
