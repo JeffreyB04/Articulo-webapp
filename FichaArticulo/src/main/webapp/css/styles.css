@@ -33,6 +33,7 @@ body{
 }
 
 .problema-nombre{
+    color: darkred;
     display: inline-block;
     width: 20%;
     text-align: right;
@@ -40,6 +41,7 @@ body{
     vertical-align: top;
 }
 .experimento-nombre{
+    color: darkred;
     display: inline-block;
     width: 20%;
     text-align: right;
@@ -47,11 +49,20 @@ body{
     vertical-align: top;
 }
 .otrasSoluciones-nombre{
+    color: darkred;
     display: inline-block;
     width: 20%;
     text-align: right;
     padding-right: 1em;
     vertical-align: top;
+}
+
+.link-articulo{
+    color: aqua;
+    text-align: center;
+    vertical-align: top;
+
+
 }
 
 .problema-description{
@@ -91,6 +102,12 @@ body{
 
 .autor-nombre{
 
+}
+
+.imagen-normalizada{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
 }
 
 .estudiantes ul{
